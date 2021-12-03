@@ -61,5 +61,5 @@ I did not attempt the 'Open a lightbox gallery by clicking on the large product 
 
 ## Author
 
-- Github - [ChinyangaTL](https://www.your-site.com)
-- Frontend Mentor - [@beyonce-beytwice](https://www.frontendmentor.io/profile/beyonce-beytwiceyourusername)
+- Github - [ChinyangaTL](https://github.com/ChinyangaTL)
+- Frontend Mentor - [@beyonce-beytwice](https://www.frontendmentor.io/profile/ChinyangaTL)
